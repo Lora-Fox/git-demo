@@ -7,3 +7,5 @@ check check
 
 new branch feature
 
+new line confl
+
